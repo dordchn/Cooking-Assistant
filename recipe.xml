@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu name ="main">
+
+	<menu name ="starters" value = "Please choose a category.">
+		<menu name ="salads">
+			<dish name = "caesar salad">
+			</dish>
+			<dish name = "sweet potato salad">
+			</dish>
+		</menu>
+		<menu name ="soups" value = "Please choose a type of soup.">
+			<dish name = "tomatoes">
+			</dish>
+			<dish name = "orange lentils">
+			</dish>
+			<dish name = "green lentils">
+			</dish>
+			<dish name = "beans">
+			</dish>
+			<dish name = "onions">
+			</dish>
+		</menu>
+	</menu>
+
+	<menu name ="dishes" value = "Please choose a category.">
+		<menu name ="pasta" value = "Please choose a sauce.">
+			<dish name = "tomato">
+				<ingredients>
+					<item amount="1">Onion</item>
+					<item amount="3">Garlic Cloves</item>
+					<item amount="1">Tomato</item>
+					<item amount="1">Tomato paste</item>
+					<item amount="1 tablespoon">Parsley</item>
+					<item amount="1 tablespoon">Sugar</item>
+					<item amount="1 teaspoon">Black pepper</item>
+				</ingredients>
+				<method>
+					<step>Fry the onion in a deep pan for 1 minute</step>
+					<step>Add the garlic cloves and fry for another 2 minutes</step>
+					<step>Add the tomato and fry for another 2 minutes</step>
+					<step>Add the tomato paste, sugar, parsley, black pepper, and some boiled water</step>
+					<step>Cook for addition 5 to 10 minutes</step>
+				</method>
+			</dish>
+			<dish name = "rose">
+			</dish>
+			<dish name = "sweet potatoes">
+			</dish>
+		</menu>
+		<menu name ="rice">
+
+		</menu>
+		<menu name ="lentils">
+
+		</menu>
+	</menu>
+	
+	<menu name ="desserts" value = "Please choose a dessert.">
+		<dish name ="carrot cake">
+
+		</dish>
+	</menu>
+</menu>
