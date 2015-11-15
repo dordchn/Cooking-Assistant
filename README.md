@@ -1,6 +1,6 @@
 # Cooking-Assistant
-Cooking assistant for Raspberry PI should assist you cooking in the kitchen.
-The script will read out loud recipes for you, processed from a given XML file (example included).
+Cooking assistant for Raspberry PI should assist you cooking in the kitchen.<br />
+The script will read out loud recipes for you, processed from a given XML file (example included).<br />
 Use Claps to navigate between menu, choose a dish, and navigate between the cooking steps and ingredients.
 
 
