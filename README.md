@@ -6,7 +6,7 @@ Use Claps to navigate between menu, choose a dish, and navigate between the cook
 
 ### Installation Instructions
 ```
-> git clone https://github.com/dordorcohen/Cooking-Assistant.git
+> git clone https://github.com/dordchn/Cooking-Assistant.git
 > cd Cooking-Assistant/
 > sudo apt-get install espeak
 > sudo apt-get install python-pyaudio
